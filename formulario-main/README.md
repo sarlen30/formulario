@@ -1,4 +1,4 @@
-## Laboratorio 2.
+## Formulario.
 
 Formulario para crear una cuenta ficticia de acceso a una página web.
 
